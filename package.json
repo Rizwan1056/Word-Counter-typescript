@@ -17,6 +17,7 @@
   "author": "Rizwan Ahmed Soomro",
   "license": "MIT",
   "dependencies": {
+    "@rizwan_ahmed/word_counter": "^1.1.1",
     "inquirer": "^9.2.23"
   },
   "devDependencies": {
